@@ -1,0 +1,51 @@
+body {
+    display :border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+    padding:0;
+    background-color:hsl(28, 33%, 92%);
+
+}
+h1 {
+    font-size:36px;
+    margin:0 auto;
+    color: #F2EBE5;
+    padding:1em;
+    background-color: #647295;
+}
+h4 {
+    margin-top:0.5em;
+    font-size: 24px;
+    font-weight:bold;
+}
+
+img {
+    width:100%;
+    height:auto;
+    text-align:center;
+    vertical-align:bottom;
+}
+
+
+.description {
+    background-color:#647295;
+    color:#F2EBE5;
+    font-size:18px;
+    padding:1em;
+    line-height: 1.5em;
+}
+
+.ingredients {
+    padding:1em;
+}
+
+.steps {
+    padding:1em;
+    background-color: #647295;
+    color:#F2EBE5;
+}
+
+li {
+    line-height: 1.5em;
+    margin:10px 0 ;
+}
